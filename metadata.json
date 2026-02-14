@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FraudGuard AI Analysis",
+  "description": "A specialized behavioral analysis tool that extracts structured 'Fraud DNA' signatures from suspicious messages using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
